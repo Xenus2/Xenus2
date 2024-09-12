@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,linux,lua,c,electron)](https://skillicons.dev)
+(https://skillicons.dev/icons?i=js,html,css,nodejs,linux,lua,c,electron)](https://skillicons.dev)
 </p>
