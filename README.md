@@ -4,6 +4,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge" alt="visitor badge" />
-</p>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
