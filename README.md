@@ -1,5 +1,11 @@
-<center>**Hello, I'm Xenus. Welcome to my profile! Be sure to check out my website as well.**
+<div align="center">
+  <p style="color: orange; font-family: 'Poppins', sans-serif;">
+    **Hello, I'm Xenus. Welcome to my profile! Be sure to check out my website as well.**
+  </p>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge" alt="visitor badge" />
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,linux,lua,c,electron)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,linux,lua,c,electron" alt="My Skills" />
+  </a>
+</div>
