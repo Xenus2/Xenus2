@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Hello, I'm Xenus. Welcome to my profile! Be sure to check out my website as well.</strong>
+  **Hello, I'm Xenus. Welcome to my profile! Be sure to check out my website as well.**
 </p>
 
 <p align="center">
@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-(https://skillicons.dev/icons?i=js,html,css,nodejs,linux,lua,c,electron)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,linux,lua,c,electron)](https://skillicons.dev)
 </p>
