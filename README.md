@@ -1,11 +1,5 @@
-<p align="center">
-  **Hello, I'm Xenus. Welcome to my profile! Be sure to check out my website as well.**
-</p>
+**Hello, I'm Xenus. Welcome to my profile! Be sure to check out my website as well.**
 
-<p align="center">
-  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
-</p>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
-<p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,linux,lua,c,electron)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,linux,lua,c,electron)](https://skillicons.dev)
