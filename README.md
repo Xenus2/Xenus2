@@ -29,8 +29,5 @@
   <!-- Highlighted Projects -->
   <h2>Highlighted Projects</h2>
   <ul style="font-family: 'Poppins', sans-serif;">
-    <li><a href="https://github.com/your-repo/project1" target="_blank">Project 1</a> - A brief description of what this project does.</li>
-    <li><a href="https://github.com/your-repo/project2" target="_blank">Project 2</a> - A brief description of what this project does.</li>
-    <li><a href="https://github.com/your-repo/project3" target="_blank">Project 3</a> - A brief description of what this project does.</li>
   </ul>
 </div>
