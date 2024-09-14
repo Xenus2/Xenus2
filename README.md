@@ -23,7 +23,7 @@
   <!-- Contact Information -->
   <h2>Contact Me</h2>
   <p style="font-family: 'Poppins', sans-serif;">
-    Feel free to reach out to me via [email](mailto:Xenusss@protonmail.com)
+    Feel free to reach out to me via [email](Xenusss@protonmail.com)
   </p>
 
   <!-- Highlighted Projects -->
