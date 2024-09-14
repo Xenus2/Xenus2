@@ -26,8 +26,5 @@
     Feel free to reach out to me via [email](Xenusss@protonmail.com)
   </p>
 
-  <!-- Highlighted Projects -->
-  <h2>Highlighted Projects</h2>
-  <ul style="font-family: 'Poppins', sans-serif;">
-  </ul>
+ 
 </div>
