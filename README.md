@@ -16,7 +16,7 @@
   <!-- Brief Bio Section -->
   <h2>About Me</h2>
   <p style="font-family: 'Poppins', sans-serif;">
-    I'm a passionate programmer with a strong background in web development and software engineering. 
+    I'm a passionate programmer with a strong background in web development. 
     I enjoy working with various technologies and am constantly learning and growing in my field.
   </p>
 
