@@ -10,7 +10,7 @@
 
   <!-- Skills Icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,linux,lua,c,electron" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,linux,lua,electron" alt="My Skills" />
   </a>
 
   <!-- Brief Bio Section -->
