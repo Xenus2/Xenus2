@@ -5,8 +5,7 @@
     **Hello, I'm Xenus. Welcome to my profile! Be sure to check out my website as well.**
   </p>
 
-  <!-- Visitor Badge -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge" alt="visitor badge" />
+  
 
   <!-- Skills Icons -->
   <a href="https://skillicons.dev">
